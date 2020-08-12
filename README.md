@@ -8,11 +8,8 @@
 - ⚡  2020 Goals: Make a 4 lagged somthing
 
 ### Connect with me:
-
-[<img align="left" alt="reddit.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/reddit.svg" />][reddit]
+[<img align="left" alt="reddit.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][reddit]
 [<img align="left" alt="mutantC | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
-<br />
 
 ---
 
@@ -27,7 +24,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="rahmanshaber's Github Stats" src="https://github-readme-stats.rahmanshaber.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 [website1]: https://mutantc.gitlab.io/
 [website2]: https://cubocore.gitlab.io/
