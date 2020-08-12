@@ -22,9 +22,6 @@
 - [mutantC - Thoughts on Extension Boards](https://www.youtube.com/watch?v=DK07-F1vUPU)
 <!-- YOUTUBE:END -->
 
----
-
-<img align="left" alt="rahmanshaber's Github Stats" src="https://github-readme-stats.rahmanshaber.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 [website1]: https://mutantc.gitlab.io/
 [website2]: https://cubocore.gitlab.io/
