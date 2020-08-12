@@ -1,6 +1,6 @@
 ### Hi there, I'm Shaber ur Rahman - aka rahmanshaber 👋
 
-## I'm a CAD Designer & Qt Developer!
+## I'm a CAD Designer & Qt & C/C++ Developer!
 - ⚡ This 2 are my biggest projects [mutantC][website1] and [C Suite][website2]
 - 🔭 I’m currently working on a [mutantC][website1].
 - 🌱 I’m currently learning Fusion360 and algodoo 
