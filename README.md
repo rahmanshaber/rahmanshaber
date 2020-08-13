@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a [mutantC][website1].
 - 🌱 I’m currently learning Fusion360 and algodoo 
 - 👯 I’m looking to collaborate with others in 2 of my projects
-- ⚡  2020 Goals: Make a 4 lagged somthing
+- ⚡  2020 Goals: Make a 4 lagged something
 
 ### Connect with me:
 [<img align="left" alt="reddit.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][reddit]
