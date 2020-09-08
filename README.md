@@ -15,11 +15,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [mutantC v3 - Feature overview of modular Handheld](https://www.youtube.com/watch?v=Ltj0i9JTuAE)
 - [mutantC v3 preview](https://www.youtube.com/watch?v=GKIXoBedE9s)
 - [mutantC v3 PCB and surprise from PCBway](https://www.youtube.com/watch?v=JbDW4RZl6DE)
 - [Testing pi display power on/off in mutantC](https://www.youtube.com/watch?v=0jL5CY34qXk)
 - [Setup CoreApps using CoreGarage](https://www.youtube.com/watch?v=tTGznBzgxgg)
-- [Sliding Mechanism](https://www.youtube.com/watch?v=OMvP_980Bho)
 <!-- YOUTUBE:END -->
 
 
